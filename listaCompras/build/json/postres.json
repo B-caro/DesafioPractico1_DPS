@@ -1,0 +1,26 @@
+[
+   {
+      "nombre":"Torta de Chocolate",
+      "precio":"5.00"
+   },
+   {
+      "nombre":"Pie de Manzana",
+      "precio":"4.50"
+   },
+   {
+      "nombre":"Arroz con Leche",
+      "precio":"2.50"
+   },
+   {
+      "nombre":"Gelatina de Fresa",
+      "precio":"1.50"
+   },
+   {
+      "nombre":"Suspiro a la Limeña",
+      "precio":"6.00"
+   },
+   {
+      "nombre":"Mazamorra Morada",
+      "precio":"3.00"
+   }
+]
